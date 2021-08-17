@@ -1,2 +1,2 @@
-# LEARN-JAVA
+# Java learning sandbox.
 Java learning
